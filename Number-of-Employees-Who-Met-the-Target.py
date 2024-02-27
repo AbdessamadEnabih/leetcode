@@ -1,4 +1,4 @@
-# Count Pairs Whose Sum is Less than Target
+# Number of Employees Who Met the Target	
 
 # Runtime: 39 ms
 # Memory Usage: 16.5 MB
